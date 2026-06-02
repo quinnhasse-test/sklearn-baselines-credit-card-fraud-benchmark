@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+mlruns/
+*.egg-info/
+dist/
+build/
+.env
+creditcard.csv
+*.csv
+models/
+*.pkl
+*.joblib
+.DS_Store
